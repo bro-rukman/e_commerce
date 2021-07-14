@@ -1,0 +1,1 @@
+export const RootDevelopmentApi = 'http://localhost:8080'
